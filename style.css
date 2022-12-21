@@ -1,0 +1,10 @@
+#flex-box{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    width: 180px;
+    height: 180px;
+    background-color: rgb(185, 53, 53);
+    margin: 40px;
+}
